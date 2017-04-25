@@ -1,5 +1,6 @@
 
-[Chime](https://github.com/LisiLisenok/Chime) is time scheduler which works on Vert.x event bus.  
+[Chime](https://github.com/LisiLisenok/Chime) is time scheduler which works on [Vert.x](http://vertx.io/).  
+
 _Chime_ is written in [Ceylon](http://ceylon-lang.org/) and to use it with Java _Ceylon verticle factory_
 has to be available at class path.  
 
