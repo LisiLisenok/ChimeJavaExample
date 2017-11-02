@@ -15,7 +15,7 @@ To build the project with Maven it is required:
 3. Add dependency on **org.ceylon-lang:ceylon-complete:1.3.2**.
    This is required to use Ceylon.  
 
-As example, see link:pom.xml[pom] in this repository.  
+As example, see [pom](pom.xml) in this repository.  
 
 This Chime Java example:  
 * Deploys _Chime_.  
